@@ -1,0 +1,11 @@
+void inicM(int x , int s[x][x]);
+void transpostaM(int i, int resultado[i][i], int s[i][i]);
+void opostaM(int i, int resultado[i][i], int matriz[i][i]);
+void somaM(int i, int resultado[i][i], int s[i][i], int s2[i][i]);
+void subtracaoM(int i, int resultado[i][i], int s[i][i], int s2[i][i]);
+void multiplicaoM(int i, int resultado[i][i],int s[i][i],int s2[i][i]);
+void escalarM(int i, int resultado[i][i], int matriz[i][i], int escalar);
+int diagonal(int i, int matriz[i][i]);
+int identidade(int i, int matriz[i][i]);
+int determinanteM(int tipo, int matriz[tipo][tipo]);
+void mostraM(int x, int s[x][x]);

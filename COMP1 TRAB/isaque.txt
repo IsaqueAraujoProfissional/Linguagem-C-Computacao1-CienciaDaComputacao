@@ -1,0 +1,38 @@
+Resultado SOMA:
+5 
+Resultado SOMA:
+8 
+Resultado DETERMINANTE:
+-92
+Resultado  SUBTRACAO:
+-10 -6 
+-1 8 
+Resultado  OPOSTA:
+-1 -2 
+-3 -4 
+Resultado  IDENTIDADE:
+1 0 
+0 1 
+Resultado  DIAGONAL:
+1 0 0 
+0 2 0 
+0 0 8 
+Resultado  NAO E IDENTIDADE:
+1 1 
+0 1 
+Resultado  SOMA:
+3 7 
+11 15 
+Resultado  IDENTIDADE:
+1 0 
+0 1 
+Resultado  SUBTRACAO:
+4 
+Resultado DETERMINANTE:
+-2
+Resultado  SOMA:
+7
+Resultado  TRANSPOSTA:
+1 4 7 
+2 5 9 
+3 6 8 

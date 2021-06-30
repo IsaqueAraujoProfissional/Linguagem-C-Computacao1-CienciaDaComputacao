@@ -1,0 +1,2 @@
+gcc -c operacoes.c -Wall
+gcc matriz.c -o matriz.out operacoes.o -Wall

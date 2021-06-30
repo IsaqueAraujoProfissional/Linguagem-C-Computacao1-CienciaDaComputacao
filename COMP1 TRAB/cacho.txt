@@ -1,0 +1,5 @@
+Resultado  SOMA:
+5 5 
+5 5 
+Resultado  SUBTRACAO:
+-1 
